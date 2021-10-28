@@ -1,66 +1,13 @@
 {
-    "telemetry.machineId": "e6d097e8d681b4cd087e8a0455801539c217426734707c60b7b658907c0f2323",
+    "telemetry.machineId": "aef26e6f966745f2a197cb5438bd581291ab11d8baa0bc50a5225a10c7fb0c1c",
     "openedPathsList": {
-        "workspaces3": [
-            "file:///home/zodd/Dropbox/Programming/Python/Django/Tests/TShirts",
-            "file:///home/zodd/Documents/Use-Workspace/Practica2",
-            "file:///home/zodd/Documents/Use-Workspace/Library",
-            "file:///home/zodd/Dropbox/Programming/Python/Django/RastreoCovid19",
-            "file:///home/zodd/Downloads/git-downloads/RastreoCovid19",
-            "file:///home/zodd/Dropbox/Programming/Python/Tests/Functional",
-            "file:///home/zodd/Dropbox/Programming/Python/japanese-quiz",
-            "file:///home/zodd/Dropbox/Programming/C/Stack",
-            "file:///home/zodd/Downloads/git-downloads/zdd-shell",
-            "file:///home/zodd/Documents/zdd-shell",
-            "file:///home/zodd/Documents/git-lab/dotfiles",
-            "file:///home/zodd/Dropbox/Programming/C%2B%2B/qt-projects/FirstGUI",
-            "file:///home/zodd/Dropbox/Programming/Go/1",
-            "file:///home/zodd/Dropbox/Programming/Clojure/hello-world",
-            "file:///home/zodd/Dropbox/Programming/Haskell/Tests",
-            "file:///home/zodd/Documents/git-lab/zodd18.github.io",
-            "file:///home/zodd/Dropbox/Programming/Web/LinkedList",
-            "file:///home/zodd/Downloads/ficheros_alumn%40s",
-            "file:///home/zodd/2tb/Documents/UNIVERSIDAD/2/Sistemas%20Operativos/Practica-Shell",
-            "file:///home/zodd/Downloads/F",
-            "file:///home/zodd/.scripts"
-        ],
-        "files2": [
-            "file:///home/zodd/Downloads/git-downloads/terra/README.md",
-            "file:///home/zodd/Downloads/nord%20firefox/readme.txt",
-            "file:///home/zodd/Downloads/fontawesome-free-5.15.2-desktop/otfs/README.md",
-            "file:///tmp/mozilla_zodd0/TheSimpsons2019.soil",
-            "file:///tmp/mozilla_zodd0/BankAccount.use",
-            "file:///tmp/mozilla_zodd0/Family2019.use",
-            "file:///home/zodd/who",
-            "file:///home/zodd/Desktop/MUEBLES_CUARTO.txt",
-            "file:///home/zodd/Downloads/2bspwm",
-            "file:///home/zodd/Dropbox/Programming/Python/japanese-quiz/jp-quiz.py",
-            "file:///home/zodd/Desktop/goliveaudio.sh",
-            "file:///home/zodd/Dropbox/Programming/Python/japanese-quiz/list.txt",
-            "file:///home/zodd/Documents/ropa",
-            "file:///home/zodd/Documents/unixporn/unixporn_post.txt",
-            "file:///home/zodd/Documents/git-lab/dotfiles/setup-scripts/themes.sh",
-            "file:///home/zodd/Documents/git-lab/dotfiles/themes/DOOMBOX/.config/spicetify/config.ini",
-            "file:///home/zodd/kata.cpp",
-            "file:///home/zodd/lol.c",
-            "file:///home/zodd/Dropbox/Programming/C/Stack/Stack.c",
-            "file:///usr/share/icons/Papirus-Gruvbox/index.theme",
-            "file:///home/zodd/pacman.txt",
-            "file:///home/zodd/prueba",
-            "file:///home/zodd/dasd.py",
-            "file:///home/zodd/Dropbox/Programming/Haskell/Universidad/PRACTICA%202/EDPractica2.hs",
-            "file:///home/zodd/Downloads/nord-top",
-            "file:///home/zodd/Dropbox/Programming/Haskell/Pruebas.hs",
-            "file:///home/zodd/.config/bspwm/bspwmrc",
-            "file:///home/zodd/%23hola.txt%23",
-            "file:///home/zodd/Documents/polybar/config",
-            "file:///home/zodd/.config/polybar/config.ini",
-            "file:///home/zodd/.config/sxhkd/sxhkdrc",
-            "file:///home/zodd/.config/rofi/custom-gruvbox.rasi",
-            "file:///home/zodd/.config/ranger/rc.conf",
-            "file:///home/zodd/.config/ranger/rf.conf",
-            "file:///home/zodd/backup-shortcut.kksrc",
-            "file:///home/zodd/dsad"
+        "entries": [
+            {
+                "folderUri": "file:///home/zodd/Dropbox/Programming/Maude"
+            },
+            {
+                "folderUri": "file:///home/zodd/Dropbox/Programming/C/Split"
+            }
         ]
     },
     "lastKnownMenubarData": {
@@ -76,6 +23,10 @@
                         "label": "New &&Window"
                     },
                     {
+                        "id": "welcome.showNewFileEntries",
+                        "label": "New File..."
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -88,10 +39,10 @@
                     },
                     {
                         "id": "workbench.action.openWorkspace",
-                        "label": "Open Wor&&kspace..."
+                        "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.30",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -107,225 +58,24 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/zodd/Dropbox/Programming/Python/Django/Tests/TShirts",
-                                        "external": "file:///home/zodd/Dropbox/Programming/Python/Django/Tests/TShirts",
-                                        "path": "/home/zodd/Dropbox/Programming/Python/Django/Tests/TShirts",
+                                        "fsPath": "/home/zodd/Dropbox/Programming/Maude",
+                                        "external": "file:///home/zodd/Dropbox/Programming/Maude",
+                                        "path": "/home/zodd/Dropbox/Programming/Maude",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Dropbox/Programming/Python/Django/Tests/TShirts"
+                                    "label": "~/Dropbox/Programming/Maude"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/zodd/Documents/Use-Workspace/Practica2",
-                                        "path": "/home/zodd/Documents/Use-Workspace/Practica2",
+                                        "external": "file:///home/zodd/Dropbox/Programming/C/Split",
+                                        "path": "/home/zodd/Dropbox/Programming/C/Split",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/Use-Workspace/Practica2"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Documents/Use-Workspace/Library",
-                                        "path": "/home/zodd/Documents/Use-Workspace/Library",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/Use-Workspace/Library"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Dropbox/Programming/Python/Django/RastreoCovid19",
-                                        "path": "/home/zodd/Dropbox/Programming/Python/Django/RastreoCovid19",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox/Programming/Python/Django/RastreoCovid19"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/git-downloads/RastreoCovid19",
-                                        "path": "/home/zodd/Downloads/git-downloads/RastreoCovid19",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/git-downloads/RastreoCovid19"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Dropbox/Programming/Python/Tests/Functional",
-                                        "path": "/home/zodd/Dropbox/Programming/Python/Tests/Functional",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox/Programming/Python/Tests/Functional"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Dropbox/Programming/Python/japanese-quiz",
-                                        "path": "/home/zodd/Dropbox/Programming/Python/japanese-quiz",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox/Programming/Python/japanese-quiz"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Dropbox/Programming/C/Stack",
-                                        "path": "/home/zodd/Dropbox/Programming/C/Stack",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox/Programming/C/Stack"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/git-downloads/zdd-shell",
-                                        "path": "/home/zodd/Downloads/git-downloads/zdd-shell",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/git-downloads/zdd-shell"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Documents/zdd-shell",
-                                        "path": "/home/zodd/Documents/zdd-shell",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/zdd-shell"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/git-downloads/terra/README.md",
-                                        "path": "/home/zodd/Downloads/git-downloads/terra/README.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/git-downloads/terra/README.md"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/nord%20firefox/readme.txt",
-                                        "path": "/home/zodd/Downloads/nord firefox/readme.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/nord firefox/readme.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/fontawesome-free-5.15.2-desktop/otfs/README.md",
-                                        "path": "/home/zodd/Downloads/fontawesome-free-5.15.2-desktop/otfs/README.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/fontawesome-free-5.15.2-desktop/otfs/README.md"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///tmp/mozilla_zodd0/TheSimpsons2019.soil",
-                                        "path": "/tmp/mozilla_zodd0/TheSimpsons2019.soil",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/tmp/mozilla_zodd0/TheSimpsons2019.soil"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///tmp/mozilla_zodd0/BankAccount.use",
-                                        "path": "/tmp/mozilla_zodd0/BankAccount.use",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/tmp/mozilla_zodd0/BankAccount.use"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///tmp/mozilla_zodd0/Family2019.use",
-                                        "path": "/tmp/mozilla_zodd0/Family2019.use",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/tmp/mozilla_zodd0/Family2019.use"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/who",
-                                        "path": "/home/zodd/who",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/who"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Desktop/MUEBLES_CUARTO.txt",
-                                        "path": "/home/zodd/Desktop/MUEBLES_CUARTO.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/MUEBLES_CUARTO.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Downloads/2bspwm",
-                                        "path": "/home/zodd/Downloads/2bspwm",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/2bspwm"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/zodd/Dropbox/Programming/Python/japanese-quiz/jp-quiz.py",
-                                        "path": "/home/zodd/Dropbox/Programming/Python/japanese-quiz/jp-quiz.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox/Programming/Python/japanese-quiz/jp-quiz.py"
+                                    "label": "~/Dropbox/Programming/C/Split"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -356,6 +106,10 @@
                         "label": "Save Workspace As..."
                     },
                     {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -379,7 +133,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.23",
+                        "id": "submenuitem.29",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -390,6 +144,10 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Telemetry Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -404,7 +162,7 @@
                                 },
                                 {
                                     "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
-                                    "label": "&&Keymaps"
+                                    "label": "&&Migrate Keyboard Shortcuts from..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -427,6 +185,13 @@
                                 {
                                     "id": "workbench.action.selectProductIconTheme",
                                     "label": "&&Product Icon Theme"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On"
                                 }
                             ]
                         }
@@ -614,7 +379,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.15",
+                        "id": "submenuitem.20",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -635,8 +400,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
-                                    "checked": true
+                                    "label": "Show Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -654,13 +418,14 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleEditorVisibility",
-                                    "label": "Show &&Editor Area",
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel",
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Show &&Editor Area",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -696,7 +461,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.27",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -715,6 +480,13 @@
                                 {
                                     "id": "workbench.action.splitEditorRight",
                                     "label": "Split &&Right"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -785,7 +557,15 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.actions.view.problems",
+                        "label": "&&Problems"
                     },
                     {
                         "id": "workbench.action.output.toggleOutput",
@@ -800,19 +580,16 @@
                         "label": "&&Terminal"
                     },
                     {
-                        "id": "workbench.actions.view.problems",
-                        "label": "&&Problems"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Show &&Minimap"
+                        "label": "Show &&Minimap",
+                        "checked": true
                     },
                     {
                         "id": "breadcrumbs.toggle",
@@ -850,7 +627,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -899,7 +676,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.33",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -985,28 +762,23 @@
                     },
                     {
                         "id": "editor.action.revealDefinition",
-                        "label": "Go to &&Definition",
-                        "enabled": false
+                        "label": "Go to &&Definition"
                     },
                     {
                         "id": "editor.action.revealDeclaration",
-                        "label": "Go to &&Declaration",
-                        "enabled": false
+                        "label": "Go to &&Declaration"
                     },
                     {
                         "id": "editor.action.goToTypeDefinition",
-                        "label": "Go to &&Type Definition",
-                        "enabled": false
+                        "label": "Go to &&Type Definition"
                     },
                     {
                         "id": "editor.action.goToImplementation",
-                        "label": "Go to &&Implementations",
-                        "enabled": false
+                        "label": "Go to &&Implementations"
                     },
                     {
                         "id": "editor.action.goToReferences",
-                        "label": "Go to &&References",
-                        "enabled": false
+                        "label": "Go to &&References"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1106,7 +878,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.22",
+                        "id": "submenuitem.28",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1161,8 +933,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1217,16 +988,24 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
+                        "id": "workbench.action.openWalkthrough",
+                        "label": "Get Started"
                     },
                     {
-                        "id": "workbench.action.showInteractivePlayground",
-                        "label": "I&&nteractive Playground"
+                        "id": "workbench.action.showCommands",
+                        "label": "Show All Commands"
                     },
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "Editor Playgrou&&nd"
+                    },
+                    {
+                        "id": "update.showCurrentReleaseNotes",
+                        "label": "&&Release Notes"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1236,8 +1015,8 @@
                         "label": "&&Keyboard Shortcuts Reference"
                     },
                     {
-                        "id": "workbench.action.openIntroductoryVideosUrl",
-                        "label": "Introductory &&Videos"
+                        "id": "workbench.action.openVideoTutorialsUrl",
+                        "label": "&&Video Tutorials"
                     },
                     {
                         "id": "workbench.action.openTipsAndTricksUrl",
@@ -1245,6 +1024,10 @@
                     },
                     {
                         "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.openTwitterUrl",
+                        "label": "&&Join Us on Twitter"
                     },
                     {
                         "id": "workbench.action.openRequestFeatureUrl",
@@ -1260,6 +1043,10 @@
                     {
                         "id": "workbench.action.openLicenseUrl",
                         "label": "View &&License"
+                    },
+                    {
+                        "id": "workbench.action.openPrivacyStatementUrl",
+                        "label": "Privac&&y Statement"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1290,6 +1077,10 @@
             "workbench.action.newWindow": {
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
+            },
+            "welcome.showNewFileEntries": {
+                "label": "Ctrl+Alt+Super+N",
+                "userSettingsLabel": "ctrl+alt+meta+n"
             },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
@@ -1326,11 +1117,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+s"
             },
-            "workbench.extensions.action.showRecommendedKeymapExtensions": {
-                "label": "Ctrl+K Ctrl+M",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+m"
-            },
             "workbench.action.selectTheme": {
                 "label": "Ctrl+K Ctrl+T",
                 "isNative": false,
@@ -1344,6 +1130,10 @@
                 "label": "Ctrl+K F",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k f"
+            },
+            "workbench.action.closeWindow": {
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1374,8 +1164,8 @@
                 "userSettingsLabel": "ctrl+f"
             },
             "workbench.action.findInFiles": {
-                "label": "Ctrl+Shift+F",
-                "userSettingsLabel": "ctrl+shift+f"
+                "label": "Ctrl+H",
+                "userSettingsLabel": "ctrl+h"
             },
             "workbench.action.replaceInFiles": {
                 "label": "Ctrl+Shift+H",
@@ -1415,12 +1205,12 @@
                 "userSettingsLabel": "ctrl+alt+meta+down"
             },
             "editor.action.moveLinesUpAction": {
-                "label": "Ctrl+Shift+Up",
-                "userSettingsLabel": "ctrl+shift+up"
+                "label": "Alt+Up",
+                "userSettingsLabel": "alt+up"
             },
             "editor.action.moveLinesDownAction": {
-                "label": "Ctrl+Shift+Down",
-                "userSettingsLabel": "ctrl+shift+down"
+                "label": "Alt+Down",
+                "userSettingsLabel": "alt+down"
             },
             "editor.action.insertCursorAbove": {
                 "label": "Shift+Alt+Up",
@@ -1486,8 +1276,8 @@
                 "userSettingsLabel": "ctrl+shift+e"
             },
             "workbench.view.search": {
-                "label": "Ctrl+H",
-                "userSettingsLabel": "ctrl+h"
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
@@ -1496,6 +1286,10 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
+            },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
             },
             "workbench.action.output.toggleOutput": {
                 "label": "Ctrl+K Ctrl+H",
@@ -1507,16 +1301,13 @@
                 "userSettingsLabel": "ctrl+shift+y"
             },
             "workbench.action.terminal.toggleTerminal": {
-                "label": "Ctrl+Alt+T",
-                "userSettingsLabel": "ctrl+alt+t"
-            },
-            "workbench.actions.view.problems": {
-                "label": "Ctrl+Shift+M",
-                "userSettingsLabel": "ctrl+shift+m"
+                "label": "Ctrl+ñ",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+[Semicolon]"
             },
             "editor.action.toggleWordWrap": {
-                "label": "Shift+Alt+Y",
-                "userSettingsLabel": "shift+alt+y"
+                "label": "Alt+Z",
+                "userSettingsLabel": "alt+z"
             },
             "workbench.action.navigateBack": {
                 "label": "Alt+Left",
@@ -1590,12 +1381,12 @@
                 "userSettingsLabel": "ctrl+shift+r"
             },
             "workbench.action.showAllSymbols": {
-                "label": "Ctrl+T",
-                "userSettingsLabel": "ctrl+t"
+                "label": "Ctrl+Shift+T",
+                "userSettingsLabel": "ctrl+shift+t"
             },
             "workbench.action.gotoSymbol": {
-                "label": "Ctrl+O",
-                "userSettingsLabel": "ctrl+o"
+                "label": "Ctrl+Shift+O",
+                "userSettingsLabel": "ctrl+shift+o"
             },
             "editor.action.goToImplementation": {
                 "label": "Ctrl+F12",
@@ -1665,21 +1456,22 @@
                 "label": "Shift+F9",
                 "userSettingsLabel": "shift+f9"
             },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+`"
+            },
             "workbench.action.terminal.split": {
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
             },
             "workbench.action.tasks.runTask": {
-                "label": "F6",
-                "userSettingsLabel": "f6"
+                "label": "Ctrl+Alt+T",
+                "userSettingsLabel": "ctrl+alt+t"
             },
             "workbench.action.tasks.build": {
-                "label": "F7",
-                "userSettingsLabel": "f7"
-            },
-            "workbench.action.tasks.terminate": {
-                "label": "Shift+F6",
-                "userSettingsLabel": "shift+f6"
+                "label": "Ctrl+Shift+B",
+                "userSettingsLabel": "ctrl+shift+b"
             },
             "workbench.action.keybindingsReference": {
                 "label": "Ctrl+K Ctrl+R",
@@ -1693,20 +1485,42 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#323d43",
+    "themeBackground": "#2f383e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/zodd/Dropbox/Programming/Python/Django/Tests/TShirts",
-            "backupPath": "/home/zodd/.config/Code - OSS/Backups/94f9f92b6edfa33f54e85bfde6ba8fec",
+            "folder": "file:///home/zodd/Dropbox/Programming/Maude",
+            "backupPath": "/home/zodd/.config/Code/Backups/b3e372e9263eb7973f4bd0d9960410ae",
             "uiState": {
                 "mode": 1,
-                "x": 34,
-                "y": 78,
-                "width": 1616,
-                "height": 968
+                "x": 20,
+                "y": 64,
+                "width": 1880,
+                "height": 996
             }
         },
         "openedWindows": []
+    },
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#9aa79d",
+            "background": "#2f383e",
+            "editorBackground": "#2f383e",
+            "titleBarBackground": "#2f383e",
+            "activityBarBackground": "#2f383e",
+            "sideBarBackground": "#2f383e",
+            "statusBarBackground": "#2f383e",
+            "statusBarNoFolderBackground": "#2f383e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
     },
     "pickerWorkingDir": "/home/zodd/Dropbox/Programming/C"
 }
