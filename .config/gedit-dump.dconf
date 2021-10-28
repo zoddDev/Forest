@@ -4,7 +4,7 @@ active-plugins=['externaltools', 'spell', 'docinfo', 'filebrowser', 'quickopen',
 [plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/zodd/software'
+virtual-root='file:///home/zodd/Documents/git-lab/dotfiles/setup-scripts'
 
 [preferences/editor]
 editor-font='Monoid Nerd Font Light Semi-Condensed 9'
@@ -20,5 +20,5 @@ bottom-panel-active-page='GeditExternalToolsShellOutput'
 bottom-panel-size=140
 side-panel-active-page='GeditWindowDocumentsPanel'
 side-panel-size=200
-size=(850, 440)
+size=(1856, 944)
 state=128
