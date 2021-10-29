@@ -8,10 +8,10 @@ bspc monitor -d   ﬏    ﭮ 
 
 #bsp-layout set tall  -- --master-size 0.65 &
 
-for i in $(bspc query -D --names)
-do
-    bsp-layout set tall $i -- --master-size 0.65 &
-done
+#for i in $(bspc query -D --names)
+#do
+    #bsp-layout set tall $i -- --master-size 0.65 &
+#done
 
 bspc config border_width         14
 bspc config focused_border_color "#a7c080"
