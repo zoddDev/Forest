@@ -4,3 +4,13 @@ com.vermouthx.idea
 com.mallowigi
 org.jetbrains.kotlin
 com.haulmont.jpab
+atom-one
+club.nutsoft.Github3Theme
+com.markskelton.one-dark-theme
+com.4lex4.intellij.solarized
+monokai-pro
+com.samdark.intellij-visual-studio-code-dark-plus
+com.github.jef.forest-night
+color.scheme.Gruvbox Material
+io.github.xiaopihai7256
+com.vincentp.gruvbox-theme

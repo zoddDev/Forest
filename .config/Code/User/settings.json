@@ -15,7 +15,7 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
     },
-    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.iconTheme": "eq-material-theme-icons",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
@@ -26,5 +26,6 @@
     "workbench.editor.untitled.hint": "hidden",
     "editor.fontSize": 18,
     "terminal.integrated.fontSize": 16,
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "codeQL.telemetry.enableTelemetry": true
 }

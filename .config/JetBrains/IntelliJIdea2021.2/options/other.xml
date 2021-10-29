@@ -39,8 +39,10 @@
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="MarketplacePluginsSearchHistory" value="idea sync&#10;idea&#10;sync" />
-    <property name="appcds.runOnSecondStart" value="IU-212.5284.40-104456a0b6d4a96c038cf4bb94c0b31c7211aba5dbe22651e50ce3fed7570a6e" />
+    <property name="MarketplacePluginsSearchHistory" value="forest&#10;everf&#10;idea sync&#10;idea&#10;sync" />
+    <property name="NextRunPlatformUpdateBuild" value="IU-212.5457.46/2021.2.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.3" />
+    <property name="appcds.runOnSecondStart" value="IU-212.5284.40-4cf97bf40e90c71fbfc1ea9191193fc432ef309cc81f56b6ac0a1f27045839f1" />
     <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="defaultJdkConfigured" value="true" />
@@ -53,7 +55,6 @@
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
-    <property name="ide.updates.old.dirs.scan.scheduled" value="1634406415596" />
     <property name="ide.updates.previous.build.number" value="IU-212.5284.40" />
     <property name="ide.updates.whats.new.shown.for" value="212" />
     <property name="input.method.disabler.muted" value="true" />
@@ -63,7 +64,7 @@
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1633801613499" />
+    <property name="packagesearch.status.updated.ts" value="1635518784948" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="registry.to.advanced.settings.migration.build" value="IU-212.5284.40" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />

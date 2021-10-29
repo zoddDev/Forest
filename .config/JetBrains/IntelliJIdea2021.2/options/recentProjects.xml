@@ -2,18 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/software/use-6.0.0">
-          <value>
-            <RecentProjectMetaInfo frameTitle="use" projectWorkspaceId="1zHOaynQBZo6lpN5jh33I2eY41e">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-212.5284.40" />
-              <option name="buildTimestamp" value="1631597509552" />
-              <frame x="20" y="64" width="2516" height="992" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1633801614146" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/BetterGameEngine">
           <value>
             <RecentProjectMetaInfo frameTitle="BetterGameEngine – GFrame.java" projectWorkspaceId="1zJGiureTMhlHPeDJWF9qxPqh2Q">
@@ -28,12 +16,24 @@
         </entry>
         <entry key="/run/media/7d9cbe5b-fdd9-4ea3-8b9c-ea7dc184dd8f/home/zodd/Documents/MyDrugs">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1yhB5Zc8G5H6D0L0aLlq5Yc67A1">
+            <RecentProjectMetaInfo projectWorkspaceId="1yhB5Zc8G5H6D0L0aLlq5Yc67A1">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-212.5284.40" />
               <option name="buildTimestamp" value="1631597467683" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1633864826699" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/software/use-6.0.0">
+          <value>
+            <RecentProjectMetaInfo frameTitle="use" opened="true" projectWorkspaceId="1zHOaynQBZo6lpN5jh33I2eY41e">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-212.5284.40" />
+              <option name="buildTimestamp" value="1631597515304" />
+              <frame x="20" y="64" width="2520" height="996" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1635518785962" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
