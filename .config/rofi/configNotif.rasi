@@ -152,8 +152,28 @@ element alternate.active {
 element-icon {
 	size: 7ch;
 }
+element-icon selected.normal {
+	size: 7ch;
+    background-color: @actbg;
+}
+
 element.selected {
     border-radius: 2px;
 	border:           0 0 0 5px solid;
 	border-color:	    @winbg;
 }
+
+element-text selected.normal {
+    background-color: @actbg;
+}
+
+element-icon normal.normal,
+element-icon alternate.normal {
+    background-color: @bg;
+}
+element-text normal.normal,
+element-text alternate.normal {
+    background-color: @bg;
+}
+
+
