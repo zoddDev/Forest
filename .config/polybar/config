@@ -228,7 +228,7 @@ label = "  %output%  "
 ;format-background = ${colors.white}
 format-foreground = ${colors.green}
 
-click-left = $HOME/.config/polybar/scripts/theme-swap.sh
+click-left = ~/.scripts/theme-swap/theme-swap.sh -r
 
 
 [module/notification-center]
